@@ -9,7 +9,7 @@
 
 ## 🧐 Um Pouco sobre mim:
 
-- 👨‍💻 Atualmente trabalho como Freelancer.
+- 👨‍💻 Atualmente trabalho como Desenvolvedor Freelancer.
 
 - 📚 Cursando Ciência da Computação, 3° período.
 
