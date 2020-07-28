@@ -15,7 +15,7 @@
 
 - 🚀 Em constante desenvolvimento de minhas habilidades e crescimento profissional.
 
-- 🐱‍🏍 Sou movido por desafios e adoro resolver problemas.
+- 🤩 Sou movido por desafios e adoro resolver problemas.
 
 ## :muscle: Competências
 
