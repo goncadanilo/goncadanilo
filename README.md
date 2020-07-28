@@ -9,13 +9,13 @@
 
 ## 🧐 Um Pouco sobre mim:
 
-- Atualmente trabalho como Freelancer.
+- 👨‍💻 Atualmente trabalho como Freelancer.
 
-- Cursando Ciência da Computação, 3° período.
+- 📚 Cursando Ciência da Computação, 3° período.
 
-- Em constante desenvolvimento de minhas habilidades e crescimento profissional.
+- 🚀 Em constante desenvolvimento de minhas habilidades e crescimento profissional.
 
-- Sou movido por desafios e adoro resolver problemas.
+- 🐱‍🏍 Sou movido por desafios e adoro resolver problemas.
 
 ## :muscle: Competências
 
