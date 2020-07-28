@@ -7,8 +7,23 @@
   <a href="https://github.com/goncadanilo"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/goncadanilo"></a>
 </p>
 
-- Extremamente motivado.
-- Em constante desenvolvimento de minhas habilidades e crescimento profissional. 
-- Sou apaixonado pelo que faço.
-- Gosto de trabalhar em equipe e de compartilhar conhecimento.
+## 🧐 Um Pouco sobre mim:
+
+- Atualmente trabalho como Freelancer.
+
+- Cursando Ciência da Computação, 3° período.
+
+- Em constante desenvolvimento de minhas habilidades e crescimento profissional.
+
 - Sou movido por desafios e adoro resolver problemas.
+
+## :muscle: Competências
+
+- JavaScript
+- Typescript
+- Node.js
+- Docker
+- React.js
+- HTML/CSS
+- Git/Github
+
