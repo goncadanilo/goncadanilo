@@ -23,7 +23,7 @@
 - Typescript
 - Node.js
 - Docker
-- React.js
+- React.js/React Native
 - HTML/CSS
 - Git/Github
 
