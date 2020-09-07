@@ -18,6 +18,6 @@
 <h3> 🤝🏻 Conecte-se comigo </h3>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/goncadanilo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-goncadanilo-blue?logo=linkedin"></a>
- <a href="mailto:gonca.danilo@gmal.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-gonca.danilo-red?logo=gmail"></a>
+ <a href="https://www.linkedin.com/in/goncadanilo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo_Gonçalves-blue?logo=linkedin"></a>
+ <a href="mailto:gonca.danilo@gmal.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-gonca.danilo@gmail.com-red?logo=gmail"></a>
 </p>
