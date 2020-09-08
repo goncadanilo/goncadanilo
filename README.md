@@ -1,6 +1,10 @@
 <h2 align="center"> Fala devs 👋, blz? Eu sou Danilo Gonçalves</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=goncadanilo" alt="goncadanilo" /> </p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=goncadanilo" alt="goncadanilo" /> 
+ <a href="https://www.linkedin.com/in/goncadanilo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo_Gonçalves-blue?logo=linkedin"></a>
+ <a href="mailto:gonca.danilo@gmal.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-gonca.danilo@gmail.com-red?logo=gmail"></a>
+</p>
 
 <h3> 👨‍💻 About Me </h3>
 
@@ -14,10 +18,3 @@
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&show_icons=true&count_private=true)](https://github.com/goncadanilo)
-
-<h3> 🤝🏻 Conecte-se comigo </h3>
-
-<p align="center">
- <a href="https://www.linkedin.com/in/goncadanilo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo_Gonçalves-blue?logo=linkedin"></a>
- <a href="mailto:gonca.danilo@gmal.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-gonca.danilo@gmail.com-red?logo=gmail"></a>
-</p>
