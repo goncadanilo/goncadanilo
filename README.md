@@ -13,7 +13,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goncadanilo&show_icons=true&count_private=true)](https://github.com/goncadanilo)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&show_icons=true&count_private=true)](https://github.com/goncadanilo)
 
 <h3> 🤝🏻 Conecte-se comigo </h3>
 
