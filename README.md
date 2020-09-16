@@ -1,4 +1,4 @@
-<h2 align="center"> Fala devs 👋, blz? Eu sou Danilo Gonçalves</h2>
+<h2 align="center"> Fala galera, blz? Eu sou Danilo Gonçalves</h2>
 
 <p align="center">  
  <img src="https://komarev.com/ghpvc/?username=goncadanilo" alt="goncadanilo" /> 
