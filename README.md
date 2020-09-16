@@ -6,7 +6,7 @@
  <a href="mailto:gonca.danilo@gmal.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-gonca.danilo@gmail.com-red?logo=gmail"></a>
 </p>
 
-<h3> 👨‍💻 About Me </h3>
+<h3> 👨‍💻 Sobre mim </h3>
 
 - :muscle: &nbsp; Extremamente motivado.
 - 😍 &nbsp; Amo o que faço.
