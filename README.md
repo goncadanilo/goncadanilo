@@ -1,8 +1,9 @@
 <h1 align="center"> Fala galera, blz? Eu sou Danilo Gonçalves</h1>
 
 <p align="center">
+ <a href="https://github.com/goncadanilo/"><img alt="Github" src="https://img.shields.io/badge/Github-goncadanilo-blueviolet?logo=github"></a>
  <a href="https://www.linkedin.com/in/goncadanilo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo_Gonçalves-blue?logo=linkedin"></a>
- <a href="mailto:gonca.danilo@gmal.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-gonca.danilo@gmail.com-red?logo=gmail"></a>
+ <a href="mailto:gonca.danilo@gmal.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-gonca.danilo@gmail.com-red?logo=gmail"></a>
 </p>
 
 <h2> 👨‍💻 Sobre mim </h2>
