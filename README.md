@@ -14,6 +14,7 @@
 - 📚 &nbsp; Cursando Ciência da Computação.
 - ☕ &nbsp; Amo café, hehehe. 
 
+<br/>
 <h3> 🏆 Rank </h3>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=goncadanilo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/goncadanilo)
