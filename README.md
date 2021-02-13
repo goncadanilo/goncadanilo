@@ -1,4 +1,4 @@
-<h1 align="center"> Fala galera, blz? Eu sou Danilo Gonçalves</h1>
+<h1 align="center"> Fala galera! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="center">
  <a href="https://github.com/goncadanilo/"><img alt="Github" src="https://img.shields.io/badge/Github-goncadanilo-blueviolet?logo=github"></a>
