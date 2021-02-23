@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <img height="25" alt="" src="https://img.shields.io/badge/TypeScript-fff?style=social&logo=typescript">
-  <img height="25" alt="" src="https://img.shields.io/badge/React JS-fff?style=social&logo=react&logoColor=61dafb">
-  <img height="25" alt="" src="https://img.shields.io/badge/NestJS-fff?style=social&logo=nestjs&logoColor=ea2845">
-  <img height="25" alt="" src="https://img.shields.io/badge/GraphQL-fff?style=social&logo=graphql&logoColor=e10098">
-  <img height="25" alt="" src="https://img.shields.io/badge/PostgreSQL-fff?style=social&logo=postgresql&logoColor=blue">
-  <img height="25" alt="" src="https://img.shields.io/badge/MongoDB-fff?style=social&logo=mongodb">
-  <img height="25" alt="" src="https://img.shields.io/badge/Docker-fff?style=social&logo=docker">
+  <img height="25" alt="" src="https://img.shields.io/badge/TypeScript-fff?style=social&logo=typescript">&nbsp;&nbsp;&nbsp;
+  <img height="25" alt="" src="https://img.shields.io/badge/React JS-fff?style=social&logo=react&logoColor=61dafb">&nbsp;&nbsp;&nbsp;
+  <img height="25" alt="" src="https://img.shields.io/badge/NestJS-fff?style=social&logo=nestjs&logoColor=ea2845">&nbsp;&nbsp;&nbsp;
+  <img height="25" alt="" src="https://img.shields.io/badge/GraphQL-fff?style=social&logo=graphql&logoColor=e10098">&nbsp;&nbsp;&nbsp;
+  <img height="25" alt="" src="https://img.shields.io/badge/PostgreSQL-fff?style=social&logo=postgresql&logoColor=blue">&nbsp;&nbsp;&nbsp;
+  <img height="25" alt="" src="https://img.shields.io/badge/MongoDB-fff?style=social&logo=mongodb">&nbsp;&nbsp;&nbsp;
+  <img height="25" alt="" src="https://img.shields.io/badge/Docker-fff?style=social&logo=docker">&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2> 👨‍💻 Sobre mim </h2>
