@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <img width="90" alt="" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=typescript">
-  <img width="90" alt="" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=react">
-  <img width="90" alt="" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=nestjs&logoColor=ea2845">
-  <img width="90" alt="" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=graphql&logoColor=e10098">
-  <img width="90" alt="" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=postgresql&logoColor=blue">
-  <img width="90" alt="" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=mongodb">
-  <img width="90" alt="" src="https://img.shields.io/badge/-fff?style=for-the-badge&logo=docker">
+  <img alt="" src="https://img.shields.io/badge/TypeScript-fff?style=social&logo=typescript">
+  <img alt="" src="https://img.shields.io/badge/React JS-fff?style=social&logo=react">
+  <img alt="" src="https://img.shields.io/badge/NestJS-fff?style=social&logo=nestjs&logoColor=ea2845">
+  <img alt="" src="https://img.shields.io/badge/GraphQL-fff?style=social&logo=graphql&logoColor=e10098">
+  <img alt="" src="https://img.shields.io/badge/PostgreSQL-fff?style=social&logo=postgresql&logoColor=blue">
+  <img alt="" src="https://img.shields.io/badge/MongoDB-fff?style=social&logo=mongodb">
+  <img alt="" src="https://img.shields.io/badge/Docker-fff?style=social&logo=docker">
 </p>
 
 <h2> 👨‍💻 Sobre mim </h2>
