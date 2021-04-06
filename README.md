@@ -24,7 +24,6 @@
 - 🗣 &nbsp; Boa comunicação.
 - 😍 &nbsp; Amo o que faço.
 - 🚀 &nbsp; Em constante desenvolvimento de minhas habilidades e crescimento profissional.
-- 🎓 &nbsp; Formação técnica em Informatica para Internet.
 
 <h2> 🏆 Rank </h2>
 
