@@ -19,7 +19,9 @@
 
 <h2> 👨‍💻 Sobre mim </h2>
 
-- :muscle: &nbsp; Extremamente motivado.
+- :muscle: &nbsp; Extremamente motivado e proativo.
+- 👥  &nbsp; Trabalho bem em equipe.
+- 🗣 &nbsp; Boa comunicação.
 - 😍 &nbsp; Amo o que faço.
 - 🚀 &nbsp; Em constante desenvolvimento de minhas habilidades e crescimento profissional.
 - 🎓 &nbsp; Formação técnica em Informatica para Internet.
