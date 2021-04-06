@@ -25,8 +25,6 @@
 - 😍 &nbsp; Amo o que faço.
 - 🚀 &nbsp; Em constante desenvolvimento de minhas habilidades e crescimento profissional.
 - 🎓 &nbsp; Formação técnica em Informatica para Internet.
-- 📚 &nbsp; Cursando Ciência da Computação (3° período).
-- ☕ &nbsp; Amo café, hehehe. 
 
 <h2> 🏆 Rank </h2>
 
