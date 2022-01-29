@@ -11,6 +11,3 @@ Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node
 Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
 
 Sinta-se livre para entrar em contato, adoraria te conhecer!
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=goncadanilo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/goncadanilo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&hide_border=true)](https://github.com/goncadanilo)
