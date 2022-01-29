@@ -1,31 +1,16 @@
-<h1 align="center"> Fala galera! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+# Danilo Gonçalves
 
-<p align="center">
-  <a href="https://github.com/goncadanilo/"><img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/766?logoColor=white%26project=%26recentMS=0%26showProject=false" /></a>
- <a href="https://github.com/goncadanilo/"><img alt="Github" src="https://img.shields.io/badge/Github-goncadanilo-blueviolet?logo=github"></a>
- <a href="https://www.linkedin.com/in/goncadanilo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo_Gonçalves-blue?logo=linkedin"></a>
- <a href="mailto:gonca.danilo@gmal.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-gonca.danilo@gmail.com-red?logo=gmail"></a>
-</p>
+Desenvolvedor Full Stack na [@Brainny Smart Solutions](https://www.linkedin.com/company/brainnyss/).
 
-<p align="center">
-  <img height="25" alt="" src="https://img.shields.io/badge/TypeScript-fff?style=social&logo=typescript">&nbsp;&nbsp;
-  <img height="25" alt="" src="https://img.shields.io/badge/React JS-fff?style=social&logo=react&logoColor=61dafb">&nbsp;&nbsp;
-  <img height="25" alt="" src="https://img.shields.io/badge/NestJS-fff?style=social&logo=nestjs&logoColor=ea2845">&nbsp;&nbsp;
-  <img height="25" alt="" src="https://img.shields.io/badge/GraphQL-fff?style=social&logo=graphql&logoColor=e10098">&nbsp;&nbsp;
-  <img height="25" alt="" src="https://img.shields.io/badge/PostgreSQL-fff?style=social&logo=postgresql&logoColor=blue">&nbsp;&nbsp;
-  <img height="25" alt="" src="https://img.shields.io/badge/MongoDB-fff?style=social&logo=mongodb">&nbsp;&nbsp;
-  <img height="25" alt="" src="https://img.shields.io/badge/Docker-fff?style=social&logo=docker">&nbsp;&nbsp;
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Gonçalves-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncadanilo/)](https://www.linkedin.com/in/goncadanilo/) 
+[![Gmail Badge](https://img.shields.io/badge/-gonca.danilo@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonca.danilo@gmail.com)](gonca.danilo@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-@Danilo%20Gonçalves%239766-0a66c2?style=flat-square&labelColor=0a66c2&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me) 
 
-<h2> 👨‍💻 Sobre mim </h2>
+Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native. Porém nos últimos meses tenho focado meus esforços em me especializar mais no Front End com ReactJS/Next.js.
 
-- :muscle: &nbsp; Extremamente motivado e proativo.
-- 👥  &nbsp; Trabalho bem em equipe.
-- 🗣 &nbsp; Boa comunicação.
-- 😍 &nbsp; Amo o que faço.
-- 🚀 &nbsp; Em constante desenvolvimento de minhas habilidades e crescimento profissional.
+Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
 
-<h2> 🏆 Rank </h2>
+Sinta-se livre para entrar em contato, adoraria te conhecer!
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=goncadanilo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/goncadanilo)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=goncadanilo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/goncadanilo)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&hide_border=true)](https://github.com/goncadanilo)
