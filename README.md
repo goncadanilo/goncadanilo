@@ -6,7 +6,7 @@ Desenvolvedor Full Stack na [@Brainny Smart Solutions](https://www.linkedin.com/
 [![Gmail Badge](https://img.shields.io/badge/-gonca.danilo@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonca.danilo@gmail.com)](gonca.danilo@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-@Danilo%20Gonçalves%239766-0a66c2?style=flat-square&labelColor=0a66c2&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me) 
 
-Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native. Porém, nos últimos meses tenho focado meus esforços em me especializar mais no Front End com ReactJS/Next.js.
+Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native. Porém, nos últimos meses tenho focado meus esforços em me especializar no Front End com ReactJS/Next.js.
 
 Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
 
