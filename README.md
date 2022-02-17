@@ -9,3 +9,5 @@ Desenvolvedor Full Stack na [@Brainny Smart Solutions](https://www.linkedin.com/
 Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native. Porém, nos últimos meses tenho focado meus esforços em me especializar no Front End com ReactJS/Next.js.
 
 Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
+
+Sinta-se livre para entrar em contato, adoraria te conhecer!
