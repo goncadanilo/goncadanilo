@@ -20,7 +20,7 @@
   
 <h3>🇧🇷 pt-BR</h3>
 
-Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native. Porém, nos últimos meses tenho focado meus esforços em me especializar no Front End com ReactJS/Next.js.
+Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native.
 
 Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
 
@@ -29,7 +29,7 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 
 <h3>🇺🇸 en</h3>
 
-I work for 1 year with software development using the Javascript stack: Node.js, ReactJS and React Native. But, in the last few months, I have focused my efforts on Front End specialization with ReactJS/Next.js.
+I work for 1 year with software development using the Javascript stack: Node.js, ReactJS and React Native.
 
 <img align="right" width="400em" src="https://tenor.com/view/impulso-impulser-remote-work-remote-dev-gif-16996553.gif"/>
 
