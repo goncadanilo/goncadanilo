@@ -1,9 +1,5 @@
 <h1 align="center">Olá, eu sou o Danilo Gonçalves! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<h5 align="center">
-  Full Stack Developer - <a href="https://www.linkedin.com/company/brainnyss/">@Brainny Smart Solutions</a>
-</h5>
-
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/goncadanilo/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-goncadanilo-0a66c2?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
