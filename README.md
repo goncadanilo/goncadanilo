@@ -1,11 +1,23 @@
-# Danilo Gonçalves
+<h1 align="center">Olá, eu sou o Danilo Gonçalves! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-Full Stack Developer - [@Brainny Smart Solutions](https://www.linkedin.com/company/brainnyss/).
+<h5 align="center">
+  Full Stack Developer - <a href="https://www.linkedin.com/company/brainnyss/">@Brainny Smart Solutions</a>
+</h5>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Gonçalves-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goncadanilo/)](https://www.linkedin.com/in/goncadanilo/) 
-[![Gmail Badge](https://img.shields.io/badge/-gonca.danilo@gmail.com-0a66c2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gonca.danilo@gmail.com)](gonca.danilo@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-@Danilo%20Gonçalves%239766-0a66c2?style=flat-square&labelColor=0a66c2&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me) 
+<p align="center" style="background:blue">
+  <a href="https://www.linkedin.com/in/goncadanilo/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-goncadanilo-0a66c2?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:gonca.danilo@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-gonca.danilo-0a66c2?style=flat-square&logo=Gmail&logoColor=white" alt="gmail"/>
+  </a>
+</p>
 
+<!-- <img align="right" width="300em" height="300em" src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062.gif"/> -->
+
+<img align="right" width="400em" src="https://tenor.com/view/cat-robot-gif-13094241.gif"/>
+
+  
 <h3>🇧🇷 pt-BR</h3>
 
 Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native. Porém, nos últimos meses tenho focado meus esforços em me especializar no Front End com ReactJS/Next.js.
@@ -14,9 +26,12 @@ Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A i
 
 Sinta-se livre para entrar em contato, adoraria te conhecer!
 
+
 <h3>🇺🇸 en</h3>
 
 I work for 1 year with software development using the Javascript stack: Node.js, ReactJS and React Native. But, in the last few months, I have focused my efforts on Front End specialization with ReactJS/Next.js.
+
+<img align="right" width="400em" src="https://tenor.com/view/impulso-impulser-remote-work-remote-dev-gif-16996553.gif"/>
 
 I really love what I do, I'm motivated by challenges, and I love solving problems. The idea of being able to positively impact other people's lives through technology is what fascinates me.
 
