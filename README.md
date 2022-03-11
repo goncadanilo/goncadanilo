@@ -14,7 +14,7 @@
   
 <h3>🇧🇷 pt-BR</h3>
 
-Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native.
+Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js e ReactJS.
 
 Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
 
@@ -23,7 +23,7 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 
 <h3>🇺🇸 en</h3>
 
-I work for 1 year with software development using the Javascript stack: Node.js, ReactJS and React Native.
+I work for 1 year with software development using the Javascript stack: Node.js and ReactJS.
 
 <img align="right" width="280em" src="https://tenor.com/view/impulso-impulser-remote-work-remote-dev-gif-16996553.gif"/>
 
