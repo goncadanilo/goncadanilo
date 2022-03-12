@@ -10,8 +10,8 @@
 </p>
 
 <!-- <img align="right" width="280em" src="https://tenor.com/view/cat-robot-gif-13094241.gif"/> -->
+<img align="right" width="300em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
 
-  
 <h3>🇧🇷 pt-BR</h3>
 
 Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native.
@@ -22,6 +22,8 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 
 
 <h3>🇺🇸 en</h3>
+
+<img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
 I work for 1 year with software development using the Javascript stack: Node.js, ReactJS and React Native.
 
