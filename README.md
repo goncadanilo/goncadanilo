@@ -14,7 +14,7 @@
 
 <h3>🇧🇷 pt-BR</h3>
 
-Atuo a 1 ano com desenvolvimento de software utilizando a stack Javascript: Node.js, ReactJS e React Native.
+Desde 2017 estudando programação. Atualmente trabalho com desenvolvimento de software utilizando a stack Javascript: Node.js e ReactJS. Estou estudando para me especializar no Front End com ReactJS/Next.js.
 
 Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
 
@@ -25,9 +25,7 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 
 <img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
-I work for 1 year with software development using the Javascript stack: Node.js, ReactJS and React Native.
-
-<!-- <img align="right" width="280em" src="https://tenor.com/view/impulso-impulser-remote-work-remote-dev-gif-16996553.gif"/> -->
+Since 2017 studying programming. Currently, I work with software development using the Javascript stack: Node.js and ReactJS. I'm studying to specialize in Front End with ReactJS/Next.js.
 
 I really love what I do, I'm motivated by challenges, and I love solving problems. The idea of being able to positively impact other people's lives through technology is what fascinates me.
 
