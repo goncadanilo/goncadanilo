@@ -9,7 +9,6 @@
   </a>
 </p>
 
-<!-- <img align="right" width="280em" src="https://tenor.com/view/cat-robot-gif-13094241.gif"/> -->
 <img align="right" width="300em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
 
 <h3>🇧🇷 pt-BR</h3>
