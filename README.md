@@ -13,7 +13,7 @@
 
 <h3>🇧🇷 pt-BR</h3>
 
-Desde 2017 estudando programação. Atualmente trabalho com desenvolvimento de software utilizando a stack Javascript: Node.js e ReactJS. Estou estudando para me especializar no Front End com ReactJS/Next.js.
+Desde 2017 estudando programação. Atualmente trabalho como desenvolvedor Full Stack utilizando a stack: Node.js e ReactJS.
 
 Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
 
@@ -24,7 +24,7 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 
 <img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
-Since 2017 studying programming. Currently, I work with software development using the Javascript stack: Node.js and ReactJS. I'm studying to specialize in Front End with ReactJS/Next.js.
+Since 2017 studying programming. Currently I work as a Full Stack developer using the stack: Node.js and ReactJS.
 
 I really love what I do, I'm motivated by challenges, and I love solving problems. The idea of being able to positively impact other people's lives through technology is what fascinates me.
 
