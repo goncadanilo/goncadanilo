@@ -11,7 +11,7 @@
 
 <img align="right" width="300em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
 
-<h3>🇧🇷 pt-BR</h3>
+<h3>🇧🇷 pt-br</h3>
 
 Desde 2017 estudando programação. Atualmente trabalho como desenvolvedor Full Stack utilizando a stack: Node.js e ReactJS.
 
