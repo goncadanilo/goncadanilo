@@ -48,7 +48,7 @@ Feel free to get in touch, I'd love to meet you!
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=da0093)&nbsp;
-![Apollo Client](https://img.shields.io/badge/-Apollo--Client-05122A?style=for-the-badge&logo=apollo-graphql)&nbsp;
+![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=for-the-badge&logo=apollo-graphql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=orange)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=for-the-badge&logo=cypress)&nbsp;
