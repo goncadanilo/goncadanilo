@@ -42,8 +42,8 @@ Feel free to get in touch, I'd love to meet you!
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=SASS)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
