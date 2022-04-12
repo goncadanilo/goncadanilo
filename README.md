@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/goncadanilo/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-goncadanilo-0a66c2?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/goncadanilo_/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-goncadanilo__-0a66c2?style=flat-square&logo=Instagram&logoColor=white" alt="instagram"/>
-  </a>
   <a href="mailto:gonca.danilo@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-gonca.danilo-0a66c2?style=flat-square&logo=Gmail&logoColor=white" alt="gmail"/>
   </a>
