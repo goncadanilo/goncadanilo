@@ -24,7 +24,7 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 
 ##
 
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
+<img align="right" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
 ### ⚛ Front End:
 ![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react)&nbsp;
