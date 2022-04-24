@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" width="300em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
+<img align="right" width="250em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
 
 <h3>🇧🇷 pt-br</h3>
 
@@ -24,7 +24,7 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 
 ##
 
-<img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&theme=rose_pine" alt="Danilo's stats"/>
+<img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
 #### ⚛ Front End:
 ![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react)&nbsp;
