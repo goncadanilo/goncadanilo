@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Danilo Gonçalves! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Danilo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/goncadanilo/" target="_blank">
