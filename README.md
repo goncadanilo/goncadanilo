@@ -31,7 +31,6 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=next.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS)&nbsp;
 
@@ -40,7 +39,6 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=e0234e)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
 
 #### 🎲 Database:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)&nbsp;
@@ -48,9 +46,10 @@ Sinta-se livre para entrar em contato, adoraria te conhecer!
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 
 #### 🛠 Tools:
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat-square&logo=graphql&logoColor=da0093)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=flat-square&logo=apollo-graphql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat-square&logo=jest&logoColor=orange)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat-square&logo=cypress)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
