@@ -12,12 +12,11 @@
   </a>
 </p>
 
+<br />
+
 ### 👨🏾‍💻 About me
 
 <img align="right" width="250em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
-
-<br />
-<br />
 
 - 🔭 &nbsp; I'm Full Stack Developer at [Brainny Smart Solutions](https://brainny.cc/).
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://www.rocketseat.com.br/).
