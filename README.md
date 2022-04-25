@@ -2,19 +2,18 @@
 
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/goncadanilo/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-goncadanilo-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-goncadanilo-0a66c2?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:gonca.danilo@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-gonca.danilo-0a66c2?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail"/>
+    <img align="center" src="https://img.shields.io/badge/-gonca.danilo-0a66c2?style=flat-square&logo=Gmail&logoColor=white" alt="gmail"/>
   </a>
    <a href="https://gist.github.com/goncadanilo/dc2eea91d810ae1cbb1264694c0097a8">
-    <img align="center" src="https://img.shields.io/badge/-vscode settings-0a66c2?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="vscode"/>
+    <img align="center" src="https://img.shields.io/badge/-vscode settings-0a66c2?style=flat-square&logo=VisualStudioCode&logoColor=white" alt="vscode"/>
   </a>
 </p>
 
 <img align="right" width="250em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
 
-<br />
 <br />
 <br />
 
