@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
+<img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
 - 🔭 &nbsp; I'm Full Stack Developer at [Brainny Smart Solutions](https://brainny.cc/).
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://www.rocketseat.com.br/).
