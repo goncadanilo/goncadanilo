@@ -12,15 +12,16 @@
   </a>
 </p>
 
+<br />
+
 <img align="right" width="250em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
 
-<h3>🇧🇷 pt-br</h3>
-
-Desde 2017 estudando programação. Atualmente trabalho como desenvolvedor Full Stack utilizando Node.js e ReactJS.
-
-Amo muito o que faço, sou motivado por desafios e adoro resolver problemas. A ideia de poder impactar positivamente na vida de outras pessoas através da tecnologia é o que me fascina.
-
-Sinta-se livre para entrar em contato, adoraria te conhecer!
+- 🔭 &nbsp; I'm Full Stack Developer at [Brainny Smart Solutions](https://brainny.cc/).
+- 🚀 &nbsp; Currently studying at [Rocketseat](https://www.rocketseat.com.br/).
+- 🌱 &nbsp; Enthusiastic about open source culture.
+- ❤️ &nbsp; Passionate about technology and programming.
+- 💬 &nbsp; Ask me about **ReactJS**, **Node.js**, **JavaScript** and **TypeScript**.
+- ☕ &nbsp; My day only starts after coffee lol 😜.
 
 ##
 
