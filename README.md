@@ -37,7 +37,7 @@
 
 <img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
-### ⚙ Back End:
+### 🔥 Back End:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=e0234e)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)&nbsp;
