@@ -16,6 +16,7 @@
 
 <br />
 <br />
+<br />
 
 - 🔭 &nbsp; I'm Full Stack Developer at [Brainny Smart Solutions](https://brainny.cc/).
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://www.rocketseat.com.br/).
