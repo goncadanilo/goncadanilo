@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" width="225em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
+<img align="right" width="250em" src="https://media.giphy.com/media/fo0HtwcJzNUcOlRdFc/giphy.gif"/>
 
 <br />
 <br />
