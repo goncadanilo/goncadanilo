@@ -16,6 +16,7 @@
 
 <br />
 <br />
+<br />
 
 - 🔭 &nbsp; I'm Full Stack Developer at [Brainny Smart Solutions](https://brainny.cc/).
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://www.rocketseat.com.br/).
@@ -25,7 +26,6 @@
 
 ##
 
-<img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
 ### ⚛ Front End:
 ![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react)&nbsp;
@@ -34,6 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS)&nbsp;
+
+<img align="right" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncadanilo&layout=compact&theme=rose_pine" alt="Danilo's stats"/>
 
 ### ⚙ Back End:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
