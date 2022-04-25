@@ -23,6 +23,8 @@
 - ❤️ &nbsp; Passionate about technology and programming.
 - 💬 &nbsp; Ask me about **ReactJS**, **Node.js**, **JavaScript** and **TypeScript**.
 
+<br />
+
 ##
 
 ### 🔥 Tech Stack
