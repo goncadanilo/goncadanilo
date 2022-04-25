@@ -22,7 +22,6 @@
 - 🌱 &nbsp; Enthusiastic about open source culture.
 - ❤️ &nbsp; Passionate about technology and programming.
 - 💬 &nbsp; Ask me about **ReactJS**, **Node.js**, **JavaScript** and **TypeScript**.
-- ☕ &nbsp; My day only starts after coffee lol 😜.
 
 ##
 
