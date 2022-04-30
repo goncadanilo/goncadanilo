@@ -22,7 +22,7 @@
 ### 👨🏾‍ About me
 
 - 🔭 &nbsp; I'm Full Stack Developer at [Brainny Smart Solutions](https://brainny.cc/).
-- 🚀 &nbsp; Currently studying at [Rocketseat](https://www.rocketseat.com.br/).
+- 🚀 &nbsp; Currently studying at [Rocketseat](https://app.rocketseat.com.br/me/goncadanilo).
 - 🌱 &nbsp; Enthusiastic about open source culture.
 - ❤️ &nbsp; Passionate about technology and programming.
 - 💬 &nbsp; Ask me about **ReactJS**, **Node.js**, **JavaScript** and **TypeScript**.
