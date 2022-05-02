@@ -21,7 +21,7 @@
 
 ### 👨🏾‍ About me
 
-- 🔭 &nbsp; I'm Front End Developer at [Grupo Boticário]().
+- 🔭 &nbsp; I'm Front End Developer at [Grupo Boticário](https://www.grupoboticario.com.br/).
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://app.rocketseat.com.br/me/goncadanilo).
 - 🌱 &nbsp; Enthusiastic about open source culture.
 - ❤️ &nbsp; Passionate about technology and programming.
