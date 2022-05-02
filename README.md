@@ -21,7 +21,7 @@
 
 ### 👨🏾‍ About me
 
-- 🔭 &nbsp; I'm Full Stack Developer at [Brainny Smart Solutions](https://brainny.cc/).
+- 🔭 &nbsp; I'm Front End Developer at [Grupo Boticário]().
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://app.rocketseat.com.br/me/goncadanilo).
 - 🌱 &nbsp; Enthusiastic about open source culture.
 - ❤️ &nbsp; Passionate about technology and programming.
