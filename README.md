@@ -17,7 +17,7 @@
 
 <br />
 
-<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=goncadanilo&count_private=true&theme=algolia"/>
+<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=goncadanilo&count_private=true&theme=algolia"/>
 
 ### 👨🏾‍ About me
 
