@@ -17,9 +17,10 @@
 
 <br />
 
-<img align="right" width="400em" src="https://github-readme-stats.vercel.app/api?username=goncadanilo&count_private=true&theme=algolia"/>
 
 ### 👨🏾‍ About me
+
+<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=goncadanilo&count_private=true&theme=algolia&include_all_commits=true"/>
 
 - 🔭 &nbsp; I'm Front End Developer at [Grupo Boticário](https://www.grupoboticario.com.br/).
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://app.rocketseat.com.br/me/goncadanilo).
