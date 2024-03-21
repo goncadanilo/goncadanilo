@@ -56,3 +56,4 @@
 ![Jest](https://img.shields.io/badge/-Jest-22272e?style=flat-square&logo=jest&logoColor=orange)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-22272e?style=flat-square&logo=cypress)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22272e?style=flat-square&logo=git)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-22272e?style=flat-square&logo=amazon)&nbsp;
