@@ -1,5 +1,4 @@
-![Danilo Gonçalves (1)](https://user-images.githubusercontent.com/53796755/166116087-64e89c02-f021-4e04-8a2f-e6ebd0069165.png)
-
+![capa](https://github.com/user-attachments/assets/19ee0fac-5c7e-4ca8-a76c-e1a22c8bdbb5)
 
 <!-- <h1 align="center">Hi, I'm Danilo Gonçalves! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> -->
 
