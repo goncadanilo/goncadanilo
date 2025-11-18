@@ -21,7 +21,7 @@
 
 <img align="right" width="425em" src="https://github-readme-stats.vercel.app/api?username=goncadanilo&count_private=true&theme=prussian&include_all_commits=true"/>
 
-- 💻 &nbsp; I'm Front End Developer at [Grupo Boticário](https://www.grupoboticario.com.br/).
+- 💻 &nbsp; I'm a Software Engineer at [Avenue](https://avenue.us/).
 - 🚀 &nbsp; Currently studying at [Rocketseat](https://app.rocketseat.com.br/me/goncadanilo).
 - 🌱 &nbsp; Enthusiastic about open source culture.
 - ❤️ &nbsp; Passionate about technology and programming.
